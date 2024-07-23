@@ -12,8 +12,10 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-        <p className="description">
+       <h1>Nguyen xuan trang</h1>    
+    <p className="description">
           Get started by editing <code>pages/index.js</code>
+         
         </p>
       </main>
 
